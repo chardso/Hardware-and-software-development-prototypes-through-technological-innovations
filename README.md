@@ -1,4 +1,4 @@
-# [![CI](https://﻿
+
 Project connection illustration
 ﻿
 ﻿
