@@ -1,9 +1,5 @@
+# About
 
-Project connection illustration
-﻿
-﻿
-﻿
-About
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
 ﻿
@@ -16,46 +12,32 @@ Particularly in Adjumani district ,the total population shows that 232,400 are n
 Though in 2019 alot of Non Governmental organizations were full in support of refugee education ,over these few years there is a decline in there activities.
 ﻿
 ﻿
-[View Education Thematic Report November 2019.pdf @ Wiki factory](﻿
 
-Education 
-
- Thematic Report November 2019.pdf)
 ﻿
 ﻿https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines﻿
 ﻿
 From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
 if  the chance of funding is given to empower them through this type of projects to acquire;
-﻿
-
-    soldering skills
-    General skills for repairing electronics and other hardware gadgets
-    ﻿
-
+﻿- soldering skills
+- General skills for repairing electronics and other hardware gadgets
 would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time.
+﻿At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
 ﻿
-﻿
-At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
-﻿
-Team members
-﻿
-Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
-Name                                                                                                                           Department
+# Team members
+﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
 
-    Moriku Beatrice                                                                                                                           Tailoring and design
-    Joseph Iyale                                                                                                                                   Brick laying and concrete practice
-    Kojoki Doris                                                                                                                                     Hair dressing
-    Mawadri Charles                                                                                                                          Driving and mechanics
-    Obulejo David                                                                                                                                Tailoring and design
-    Eriga Davis                                                                                                                                       carpentry and joinery
-    korma Beatrice                                                                                                                                catering
+Names Department
+|:-----:|:-------:|                                                                                                                                           Department
 
-﻿
-﻿
-﻿
-﻿
-﻿
-Project inspiration
+- Moriku Beatrice                                                                                                                          Tailoring and design
+- Joseph Iyale                                                                                                                                   Brick laying and concrete practice
+- Kojoki Doris                                                                                                                                     Hair dressing
+- Mawadri Charles                                                                                                                          Driving and mechanics
+- Obulejo David                                                                                                                                Tailoring and design
+- Eriga Davis                                                                                                                                       carpentry and joinery
+- korma Beatrice                                                                                                                                catering
+
+# Project inspiration
 The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
 ﻿
 The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
