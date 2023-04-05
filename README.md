@@ -1,3 +1,4 @@
+# [![CI](https://github.com/chardso/Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology/actions/workflows/blank.yml/badge.svg)](https://github.com/chardso/Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology/actions/workflows/blank.yml)
 # Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
 Empowering the Ukrainian displaced people through innovations and technology for sustainability 
 # project inspiration 
