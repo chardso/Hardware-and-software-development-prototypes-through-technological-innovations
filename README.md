@@ -299,8 +299,9 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 ﻿**dry_joints_in_moto_dynamos** 
 
 ﻿**creating_extensions_of _circiut_lines** 
-
-.
+<h1>Partners</h1>
+| ASknet| R0g  | GIG    |ALX | YEF|
+|:-----:|:----:|:-----:|:---:|:--;|
 
 ﻿
 
