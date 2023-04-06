@@ -320,8 +320,8 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
  
 <h1>Partners</h1>
 
-
-
+Credits to all partners mentioned in the table below who contributed towards the execution of this project during the first phase we appreciate your tireless efforts towards that and since building for continuity as mentioned by one of our great maker from Singapore is our number one priority,we look forward for your support to take the project to the next level. All individual and collaborator contributions are also highly appreciated and see you in the next phase.
+___________________________________________
 | r0g Agency | ASKnet  |  BMZ   |  ALX sch   |  YEF    |  OShw  | Ohm | GIG | Alison sch |
 | :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|:---------:|
 |![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|![](/Images/oshw-logo-400-px.png)|![](/Images/ohm-logo.png)|![](/Images/cropped-gig-logo-retina.png)|
