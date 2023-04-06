@@ -58,6 +58,17 @@ would render them chances of putting the skills in practice to achieve litle hou
 
 - It  promotes entrepreneurship and/or creates jobs.
 - It creates opportunities for youth without a job or education
+
+<h2>SDG 9: Industry, innovation and infrastructure</h2>
+
+***Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.***
+
+<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
+
+- It promotes (small-scale) industrial activities.
+- It promotes new innovations and related entrepreneurship.
+- It contributes to building better, more sustainable infrastructures.
+
 <h1>Team members</h1>
 ﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
 
@@ -147,15 +158,6 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 .
 
 ﻿
-<h2>SDG 9: Industry, innovation and infrastructure</h2>
-
-***Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.***
-
-<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
-
-- It promotes (small-scale) industrial activities.
-- It promotes new innovations and related entrepreneurship.
-- It contributes to building better, more sustainable infrastructures.
 
 <h1>About</h1>
 
