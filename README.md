@@ -60,11 +60,12 @@ Students graduating from junior express vocational training school and have no s
 - Graphical user interface (GUI)
 
 <h2>Tool</h2>
+
 - Commandline (CLI)
 
 **For the code**
 ﻿
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.git﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.
 
 ***latest code***
 ﻿
