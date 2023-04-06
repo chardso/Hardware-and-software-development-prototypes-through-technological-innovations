@@ -1,9 +1,4 @@
-
-
-
-
-
-# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
+<h1>Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology</h1>
 Empowering the Ukrainian displaced people through innovations and technology for sustainability 
 
 # ![](/Images/IMG_20220207_134319_459.jpg)
