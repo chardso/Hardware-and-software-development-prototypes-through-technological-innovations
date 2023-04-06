@@ -87,41 +87,6 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 - Local portable charcoal metal/wire stove as shown above
 
-- local soldering gun or iron
-
-- Made of a copper wire fixed on the metal rod with a wooden handle 
-
-<h4>used for?</h4>
-
-﻿**dry_joints_in_moto_dynamos** 
-
-﻿**creating_extensions_of _circiut_lines** 
-
-<h2>SDG 8:Decent work and economic growth</h2>
-
-***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
-
-<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
-
-- It  promotes entrepreneurship and/or creates jobs.
-- It creates opportunities for youth without a job or education.
-
-﻿
-<h2>SDG 9: Industry, innovation and infrastructure</h2>
-
-***Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.***
-
-<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
-
-- It promotes (small-scale) industrial activities.
-- It promotes new innovations and related entrepreneurship.
-- It contributes to building better, more sustainable infrastructures.
-
-# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
-Empowering the Ukrainian displaced people through innovations and technology for sustainability 
-
-# ![](/Images/IMG_20220207_134319_459.jpg)
-
 <h2>project inspiration</h2> 
 
 When there is insurgency or outbreak of war, the citizens of that particular area are displaced from their ancestral homes and deprived of their basic needs such as food,shelter,health and education and seek for refugee resulting to growth of unskilled population, poverty,bad health,insecurity and hunger eg the current situation in Sudan,the war between tribes has forced netzens to quit their ancestral homes for refugee in it's neighboring boarder countries like Uganda, Ethiopia to mention but a few, Ukraine is also undergoing the same situation. 
@@ -228,3 +193,38 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 ﻿
 ﻿<h2>Tools</h2>
 ﻿
+- local soldering gun or iron
+
+- Made of a copper wire fixed on the metal rod with a wooden handle 
+
+<h4>used for?</h4>
+
+﻿**dry_joints_in_moto_dynamos** 
+
+﻿**creating_extensions_of _circiut_lines** 
+
+<h2>SDG 8:Decent work and economic growth</h2>
+
+***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
+
+<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
+
+- It  promotes entrepreneurship and/or creates jobs.
+- It creates opportunities for youth without a job or education.
+
+﻿
+<h2>SDG 9: Industry, innovation and infrastructure</h2>
+
+***Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.***
+
+<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
+
+- It promotes (small-scale) industrial activities.
+- It promotes new innovations and related entrepreneurship.
+- It contributes to building better, more sustainable infrastructures.
+
+# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
+Empowering the Ukrainian displaced people through innovations and technology for sustainability 
+
+# ![](/Images/IMG_20220207_134319_459.jpg)
+
