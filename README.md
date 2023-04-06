@@ -119,11 +119,18 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 ***Commandline (CLI)***
 
 <h3>code</h3>
+
 <h4>GitHub</h4> 
-﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
+﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
+___________________________________
+
 <h4>Wikifactory</h4>
+
 <h5>latest code</h5>
-﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
+﻿
+https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
+____________________________________
 <h2>Assembly of the project</h2>
 ﻿
 
@@ -141,12 +148,11 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 
 <h2>youtube video link to the project</h2>
 Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
-﻿
+
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
-
-<h1>Tool</h1>
+____________
+<h1>BOM</h1>
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
-
 - Plier
 - Box spanners. 4,5,6,7,8,9,10,11,12 and 13
 - Network cable crimping tool
@@ -163,7 +169,6 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 - Soldering gun stand
 
 **Alternatvely where no posibility for whole tool kit**
-
 - multimeter
 - long nose
 - radio set(screw drivers)
@@ -175,7 +180,6 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 ﻿
 <h2>Local Tools</h2>
 ﻿
-
 - local soldering gun or iron
 
 - Made of a copper wire fixed on the metal rod with a wooden handle 
@@ -199,17 +203,9 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 <h5>HOW?</h5>
 
-
-﻿**dry_joints_in_moto_dynamos** 
+**dry_joints_in_moto_dynamos** 
 
 ﻿**creating_extensions_of _circiut_lines**
-
-
-
-
-
-
-
 
 <h2>local tools</h2> 
 
@@ -234,11 +230,9 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 - It promotes new innovations and related entrepreneurship.
 - It contributes to building better, more sustainable infrastructures.
 
-
 <h1>Team members</h1>
 ﻿
 Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
-
 
 __________________________________
 |     Names      | Department         |
@@ -251,7 +245,6 @@ __________________________________
 | Eriga Davis  |brick laying and concrete practice|                                                                                                                       
 |  korma Beatrice|  Driving and mechanics|                                                                                                                               
                                                                                                                                 
-
 <h1>Project inspiration</h1>
 
 - The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
@@ -311,12 +304,13 @@ __________________________________
 
 
 
-<h2>BOM</h2>
+
 
 ﻿<h3>Materials/ Parts List.</h3>
 
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿
 ﻿
+____________
  
 <h1>Partners</h1>
 
