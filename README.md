@@ -144,7 +144,7 @@ Here is my youtube channel where all videos concerned with this project are host
 ﻿
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 
-
+<h1>Tool</h1>
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
 
 - Plier
@@ -163,6 +163,7 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 - Soldering gun stand
 
 **Alternatvely where no posibility for whole tool kit**
+
 - multimeter
 - long nose
 - radio set(screw drivers)
@@ -171,6 +172,15 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 - pliers
 - non electric hand drill
 - soldering gun/iron
+﻿
+<h2>Local Tools</h2>
+﻿
+
+- local soldering gun or iron
+
+- Made of a copper wire fixed on the metal rod with a wooden handle 
+
+<h4>used for?</h4>
 
 # step by step procedure and instructions for creating the project
 ﻿
@@ -189,16 +199,16 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 <h5>HOW?</h5>
 
-***led light for reading books***
-﻿
 
-***solar chargers for charging phones***
+﻿**dry_joints_in_moto_dynamos** 
 
-
-***Radio transmitter***
+﻿**creating_extensions_of _circiut_lines**
 
 
-**learn from the pictures.**
+
+
+
+
 
 
 <h2>local tools</h2> 
@@ -286,28 +296,31 @@ __________________________________
 
 - Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
 
+***led light for reading books***
+﻿
+
+***solar chargers for charging phones***
+
+
+***Radio transmitter***
+﻿
+
 ***prototype test continues and improvements like including the Ac unit are in plan and team  members are yet to present their prototypes of their respective faculties are also underway but how to go about requires external funding.And transfer of the prototype to a real manufacturers standardized circuit board is yet to be done but the challenge is how to do it,and which software but generally we look forward to acquiring knowledge on how to go about printing PCB boards*** 
 
 - Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
 
-﻿<h2>BOM</h2>
+
+
+<h2>BOM</h2>
 
 ﻿<h3>Materials/ Parts List.</h3>
 
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿
 ﻿
-﻿<h2>Tools</h2>
-﻿
-- local soldering gun or iron
-
-- Made of a copper wire fixed on the metal rod with a wooden handle 
-
-<h4>used for?</h4>
-
-﻿**dry_joints_in_moto_dynamos** 
-
-﻿**creating_extensions_of _circiut_lines** 
+ 
 <h1>Partners</h1>
+
+
 
 | r0g Agency | ASKnet  |  BMZ   |  ALX sch   |  YEF    |  OShw  | Ohm | GIG | Alison sch |
 | :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|:---------:|
