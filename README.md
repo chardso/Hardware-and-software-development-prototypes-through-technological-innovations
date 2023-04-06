@@ -33,8 +33,12 @@ if  the chance of funding is given to empower them through this type of projects
 - General skills for repairing electronics and other hardware gadgets
 would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
 
-After my case study I visited one vocational training school known as Junior express vocational training school in adjumani district 
+***After my case study I visited one vocational training school known as Junior express vocational training school in adjumani district***
 ﻿
+<h1>Who is junior express vocational training school?</h1>
+ 
+Junior Express Vocational Training School is about 2kms away from Adjumani Town Council, it is located on the South West of Adjumani District Headquarters. It was registered in 1993 with the objective to provide training to the most vulnerable youth, people with disability, women and girls affected by war and poverty across West Nile and Northern Uganda. After the process of the registration, the School effectively started operation in 1997 and it has so far trained and graduated over 1,000 students in various trades, thus it has impacted positively in the increased household income to various vulnerable households of the host and refugee communities.
+
 <h1>Project SDG's</h1>
 
 <h2>SDG 1 No poverty</h2>
