@@ -3,6 +3,7 @@ Empowering the Ukrainian displaced people through innovations and technology for
 
 # ![](/Images/IMG_20220207_134319_459.jpg)
 <h2>project inspiration</h2> 
+<h4>(My case study)</h4>
 
 When there is insurgency or outbreak of war, the citizens of that particular area are displaced from their ancestral homes and deprived of their basic needs such as food,shelter,health and education and seek for refugee resulting to growth of unskilled population, poverty,bad health,insecurity and hunger eg the current situation in Sudan,the war between tribes has forced netzens to quit their ancestral homes for refugee in it's neighboring boarder countries like Uganda, Ethiopia to mention but a few, Ukraine is also undergoing the same situation. 
 # ![](/Images/images.jpg)
@@ -31,6 +32,8 @@ if  the chance of funding is given to empower them through this type of projects
 - soldering skills
 - General skills for repairing electronics and other hardware gadgets
 would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
+
+After my case study I visited one vocational training school known as Junior express vocational training school in adjumani district 
 ﻿
 <h1>Project SDG's</h1>
 
