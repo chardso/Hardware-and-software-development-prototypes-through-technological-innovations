@@ -173,7 +173,7 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 
 # step by step procedure and instructions for creating the project
 ﻿
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.mdPROJECT﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.md
 
 <h1>Project SDG's</h1>
 
