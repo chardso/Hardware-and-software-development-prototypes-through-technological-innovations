@@ -106,6 +106,8 @@ The school have basic tools and equipment’s in all the trades offered, the per
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
 ﻿
+<h5>Nb:The project featured in critical making by Global information Gathering (GIG) 2022-23</h5>
+
 <h1>Electronics and programming</h1><h3>Tool</h3
 
 - Graphical user interface (GUI)
