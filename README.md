@@ -118,7 +118,8 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 <h5>latest code</h5>
 ﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 <h2>Assembly of the project</h2>
-﻿- Obtaining the size of the area of the box by the prototype size
+﻿
+- Obtaining the size of the area of the box by the prototype size
 
 - Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
 
@@ -300,6 +301,6 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 ﻿
 
-<h1>About</h1>
+
 
 
