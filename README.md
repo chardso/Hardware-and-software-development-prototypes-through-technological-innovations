@@ -14,7 +14,7 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 ﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.
 <h4>Wikifactory</h4>
 <h5>latest code</h5>
-﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building﻿
+﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 <h2>Assembly of the project</h2>
 ﻿- Obtaining the size of the area of the box by the prototype size
 
