@@ -300,8 +300,12 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 ﻿**creating_extensions_of _circiut_lines** 
 <h1>Partners</h1>
-| ASknet| R0g  | GIG    |ALX | YEF|
-|:-----:|:----:|:-----:|:---:|:--;|
+
+| r0g Agency | ASKnet  |  BMZ   |  ALX sch   |  YEF    |  OShw  | Ohm | GIG | Alison sch |
+| :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|:---------:|
+|![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|![](/Images/oshw-logo-400-px.png)|![](/Images/ohm-logo.png)|![](/Images/cropped-gig-logo-retina.png)|
+|[Official website](https://openculture.agency/team/)|[Official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website](http://www.ohmtechsystems.com/)|[Official website](https://globalinnovationgathering.org/)|
+
 
 ﻿
 
