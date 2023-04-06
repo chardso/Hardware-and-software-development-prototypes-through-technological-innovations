@@ -25,13 +25,8 @@ Particularly in Adjumani district ,the total population shows that 232,400 are n
 ﻿https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines﻿/
 ﻿
 
-From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
-
-if  the chance of funding is given to empower them through this type of projects to acquire;
-﻿
-- soldering skills
-- General skills for repairing electronics and other hardware gadgets
-would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
+From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees from such a scenario and according to the study ,the solution to it is hardware and Electronic prototype development, technological innovations, open source software as a medium of instilling knowledge and skills to achieve the goal of sustainability.
+<h5> The solution to global 21st century generation to handle the global 21st century problems late president Madiba of South Africa emphasised on.</h5>
 
 ***After my case study I visited one vocational training school known as Junior express vocational training school in adjumani district***
 ﻿
@@ -84,20 +79,30 @@ Junior Express Vocational Training School is about 2kms away from Adjumani Town 
 
 
 The school have basic tools and equipment’s in all the trades offered, the permanent and pre-permanent learning structures (building) including accommodation are available.
+
 ![](images/driving_tool.jpg)
 
 ![](images/mechanics_resource.jpg)
 
 **Driving and mechanics**
+
 ![](images/tailo_desigs.jpg)
+
 ![](images/tailor4.jpg)
+
 ![](images/tailor3.jpg)
+
 **Tailoring**
+
 ![](images/carpentry_store.jpg)
+
 ![](images/store.jpg)
+
 **Carpentry and joinnery** 
-# Registration
-- Junior Express Vocational Training School was registered by the Business Names Registration Act in 1993 number 80010002120616. The school as well registered with the Directorate of Industrial Training number: UG92580A issued under section 14 subsection (e) of the BTVET Act, 2008) ISO 9001:2015. Centre Number: UVQF/1209.
+
+<h1>Registration</h1>
+
+Junior Express Vocational Training School was registered by the Business Names Registration Act in 1993 number 80010002120616. The school as well registered with the Directorate of Industrial Training number: UG92580A issued under section 14 subsection (e) of the BTVET Act, 2008) ISO 9001:2015. Centre Number: UVQF/1209.
 
 ***Thereafter I gave it a try by one of my hardware prototype development which was a DIY ultra bass amplifier***
 
@@ -110,8 +115,8 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 
 <h1>Electronics and programming</h1><h3>Tool</h3
 
-- Graphical user interface (GUI)
-- Commandline (CLI)
+***Graphical user interface (GUI)***
+***Commandline (CLI)***
 
 <h3>code</h3>
 <h4>GitHub</h4> 
@@ -139,9 +144,6 @@ Here is my youtube channel where all videos concerned with this project are host
 ﻿
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 
-<h2>problems faced during the implementation of the project</h2>
-
-- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
 
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
 
@@ -187,11 +189,22 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 <h5>HOW?</h5>
 
+***led light for reading books***
+﻿
+
+***solar chargers for charging phones***
+
+
+***Radio transmitter***
+
+
 **learn from the pictures.**
+
 
 <h2>local tools</h2> 
 
 - Local portable charcoal metal/wire stove as shown above
+
 <h2>SDG 8:Decent work and economic growth</h2>
 
 ***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
@@ -239,22 +252,17 @@ __________________________________
 ﻿
 - Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
 ﻿
-Students graduating from junior express vocational training school and have no start up capital to resume practicing the acquired skills.
-﻿
+<h2>problems faced during the implementation of the project</h2>
 
-- Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
-
-***led light for reading books***
-﻿
-***solar chargers for charging phones***
-
-***Radio transmitter***
+- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
 
 - Network limitations,sometimes we could access the mentoring because of network breakages.
 
 - Lack of a nearby makerspace which could host and train/empower those out of school.
 
 - Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
+
+- Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
 
 <h2>Social  Impact of the project on the maker</h2>
 
@@ -278,7 +286,7 @@ Students graduating from junior express vocational training school and have no s
 
 - Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
 
-- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
+***prototype test continues and improvements like including the Ac unit are in plan and team  members are yet to present their prototypes of their respective faculties are also underway but how to go about requires external funding.And transfer of the prototype to a real manufacturers standardized circuit board is yet to be done but the challenge is how to do it,and which software but generally we look forward to acquiring knowledge on how to go about printing PCB boards*** 
 
 - Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
 
