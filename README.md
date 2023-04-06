@@ -101,7 +101,7 @@ The school have basic tools and equipment’s in all the trades offered, the per
 
 ***Thereafter I gave it a try by one of my hardware prototype development which was a DIY ultra bass amplifier***
 
-<h1>DIY ultra-bass amplifier project</h1> 
+<h1>DIY-ultra-bass amplifier project</h1> 
 <h2>About</h2>
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
