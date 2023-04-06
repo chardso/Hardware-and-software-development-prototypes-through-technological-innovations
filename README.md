@@ -99,6 +99,12 @@ The school have basic tools and equipment’s in all the trades offered, the per
 # Registration
 - Junior Express Vocational Training School was registered by the Business Names Registration Act in 1993 number 80010002120616. The school as well registered with the Directorate of Industrial Training number: UG92580A issued under section 14 subsection (e) of the BTVET Act, 2008) ISO 9001:2015. Centre Number: UVQF/1209.
 
+***Thereafter I gave it a try by one of my hardware prototype development which was a DIY ultra bass amplifier***
+
+<h1>DIY ultra-bass amplifier project</h1> 
+
+<h2>About</h2>
+
 <h1>Project SDG's</h1>
 
 <h2>SDG 1 No poverty</h2>
