@@ -69,10 +69,14 @@ would render them chances of putting the skills in practice to achieve litle hou
 - It promotes new innovations and related entrepreneurship.
 - It contributes to building better, more sustainable infrastructures.
 
+
 <h1>Team members</h1>
-﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
+﻿
+Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
 
  
+
+______________________________________________
 |     Names      | Department         |
 |:-----------------:|:-------------------:|
 |Moriku Beatrice|Tailoring and design|                                                                                                                                                                                                                                                                 
