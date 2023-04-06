@@ -102,8 +102,73 @@ The school have basic tools and equipment’s in all the trades offered, the per
 ***Thereafter I gave it a try by one of my hardware prototype development which was a DIY ultra bass amplifier***
 
 <h1>DIY ultra-bass amplifier project</h1> 
-
 <h2>About</h2>
+DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
+The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
+﻿
+<h1>Electronics and programming</h1><h3>Tool</h3
+
+- Graphical user interface (GUI)
+- Commandline (CLI)
+
+<h3>code</h3>
+<h4>GitHub</h4> 
+﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
+<h4>Wikifactory</h4>
+<h5>latest code</h5>
+﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
+<h2>Assembly of the project</h2>
+﻿- Obtaining the size of the area of the box by the prototype size
+
+- Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
+
+- Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
+
+- Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
+﻿
+- Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
+
+- Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
+
+<h2>youtube video link to the project</h2>
+Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
+﻿
+https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
+
+<h2>problems faced during the implementation of the project</h2>
+
+- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
+
+There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
+
+- Plier
+- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
+- Network cable crimping tool
+- Tape measure (3m)
+- Digital ac/dc tester
+- Radio set(6pieces)
+- phone set(10pieces)
+- Multimetre
+- Sole tape
+- Wire cutter
+- Soldering wire
+- Soldering gun(60wts)
+- Solder sucker
+- Soldering gun stand
+
+**Alternatvely where no posibility for whole tool kit**
+- multimeter
+- long nose
+- radio set(screw drivers)
+- helping hand
+- tweezers
+- pliers
+- non electric hand drill
+- soldering gun/iron
+
+# step by step procedure and instructions for creating the project
+﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.md
 
 <h1>Project SDG's</h1>
 
@@ -237,70 +302,4 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 <h1>About</h1>
 
-DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
-The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
-﻿
-<h1>Electronics and programming</h1><h3>Tool</h3
-
-- Graphical user interface (GUI)
-- Commandline (CLI)
-
-<h3>code</h3>
-<h4>GitHub</h4> 
-﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
-<h4>Wikifactory</h4>
-<h5>latest code</h5>
-﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
-<h2>Assembly of the project</h2>
-﻿- Obtaining the size of the area of the box by the prototype size
-
-- Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
-
-- Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
-
-- Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
-﻿
-- Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
-
-- Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
-
-<h2>youtube video link to the project</h2>
-Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
-﻿
-https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
-
-<h2>problems faced during the implementation of the project</h2>
-
-- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
-
-There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
-
-- Plier
-- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
-- Network cable crimping tool
-- Tape measure (3m)
-- Digital ac/dc tester
-- Radio set(6pieces)
-- phone set(10pieces)
-- Multimetre
-- Sole tape
-- Wire cutter
-- Soldering wire
-- Soldering gun(60wts)
-- Solder sucker
-- Soldering gun stand
-
-**Alternatvely where no posibility for whole tool kit**
-- multimeter
-- long nose
-- radio set(screw drivers)
-- helping hand
-- tweezers
-- pliers
-- non electric hand drill
-- soldering gun/iron
-
-# step by step procedure and instructions for creating the project
-﻿
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.md
 
