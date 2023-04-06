@@ -4,32 +4,20 @@
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
 ﻿
-﻿
-
-
-<h1>Electronics and programming</h1>
-
-***App***
+<h1>Electronics and programming</h1><h3>Tool</h3
 
 - Graphical user interface (GUI)
 
-<h2>Tool</h2>
-
 - Commandline (CLI)
 
-**For the code**
-﻿
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.
-
-***latest code***
-﻿
-https://wikifactory.com/+criticalmaking/a-diy-amplifier-building﻿
-
-
+<h3>code</h3>
+<h4>GitHub</h4> 
+﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.
+<h4>Wikifactory</h4>
+<h5>latest code</h5>
+﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building﻿
 <h2>Assembly of the project</h2>
-﻿
-
-- Obtaining the size of the area of the box by the prototype size
+﻿- Obtaining the size of the area of the box by the prototype size
 
 - Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
 
