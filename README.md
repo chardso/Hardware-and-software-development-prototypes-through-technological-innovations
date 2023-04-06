@@ -1,92 +1,12 @@
 
-<h1>About</h1>
 
-DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
-The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
-﻿
-<h1>Electronics and programming</h1><h3>Tool</h3
 
-- Graphical user interface (GUI)
-- Commandline (CLI)
 
-<h3>code</h3>
-<h4>GitHub</h4> 
-﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
-<h4>Wikifactory</h4>
-<h5>latest code</h5>
-﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
-<h2>Assembly of the project</h2>
-﻿- Obtaining the size of the area of the box by the prototype size
 
-- Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
+# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
+Empowering the Ukrainian displaced people through innovations and technology for sustainability 
 
-- Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
-
-- Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
-﻿
-- Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
-
-- Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
-
-<h2>youtube video link to the project</h2>
-Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
-﻿
-https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
-
-<h2>problems faced during the implementation of the project</h2>
-
-- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
-
-There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
-
-- Plier
-- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
-- Network cable crimping tool
-- Tape measure (3m)
-- Digital ac/dc tester
-- Radio set(6pieces)
-- phone set(10pieces)
-- Multimetre
-- Sole tape
-- Wire cutter
-- Soldering wire
-- Soldering gun(60wts)
-- Solder sucker
-- Soldering gun stand
-
-**Alternatvely where no posibility for whole tool kit**
-- multimeter
-- long nose
-- radio set(screw drivers)
-- helping hand
-- tweezers
-- pliers
-- non electric hand drill
-- soldering gun/iron
-
-# step by step procedure and instructions for creating the project
-﻿
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.md
-
-<h1>Project SDG's</h1>
-
-<h2>SDG 1 No poverty</h2>
-
-***End poverty in all its forms everywhere.***
-
-<h3>My project or innovation has positive impact towards this goal in the following way:</h3>
-
-- It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
-- It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
-
-<h5>HOW?</h5>
-
-**learn from the pictures.**
-
-<h2>local tools</h2> 
-
-- Local portable charcoal metal/wire stove as shown above
-
+# ![](/Images/IMG_20220207_134319_459.jpg)
 <h2>project inspiration</h2> 
 
 When there is insurgency or outbreak of war, the citizens of that particular area are displaced from their ancestral homes and deprived of their basic needs such as food,shelter,health and education and seek for refugee resulting to growth of unskilled population, poverty,bad health,insecurity and hunger eg the current situation in Sudan,the war between tribes has forced netzens to quit their ancestral homes for refugee in it's neighboring boarder countries like Uganda, Ethiopia to mention but a few, Ukraine is also undergoing the same situation. 
@@ -117,6 +37,32 @@ if  the chance of funding is given to empower them through this type of projects
 - General skills for repairing electronics and other hardware gadgets
 would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
 ﻿
+<h1>Project SDG's</h1>
+
+<h2>SDG 1 No poverty</h2>
+
+***End poverty in all its forms everywhere.***
+
+<h3>My project or innovation has positive impact towards this goal in the following way:</h3>
+
+- It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
+- It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
+
+<h5>HOW?</h5>
+
+**learn from the pictures.**
+
+<h2>local tools</h2> 
+
+- Local portable charcoal metal/wire stove as shown above
+<h2>SDG 8:Decent work and economic growth</h2>
+
+***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
+
+<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
+
+- It  promotes entrepreneurship and/or creates jobs.
+- It creates opportunities for youth without a job or education
 <h1>Team members</h1>
 ﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
 
@@ -203,14 +149,7 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 ﻿**creating_extensions_of _circiut_lines** 
 
-<h2>SDG 8:Decent work and economic growth</h2>
-
-***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
-
-<h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
-
-- It  promotes entrepreneurship and/or creates jobs.
-- It creates opportunities for youth without a job or education.
+.
 
 ﻿
 <h2>SDG 9: Industry, innovation and infrastructure</h2>
@@ -223,8 +162,72 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 - It promotes new innovations and related entrepreneurship.
 - It contributes to building better, more sustainable infrastructures.
 
-# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
-Empowering the Ukrainian displaced people through innovations and technology for sustainability 
+<h1>About</h1>
 
-# ![](/Images/IMG_20220207_134319_459.jpg)
+DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
+The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
+﻿
+<h1>Electronics and programming</h1><h3>Tool</h3
+
+- Graphical user interface (GUI)
+- Commandline (CLI)
+
+<h3>code</h3>
+<h4>GitHub</h4> 
+﻿https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier
+<h4>Wikifactory</h4>
+<h5>latest code</h5>
+﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
+<h2>Assembly of the project</h2>
+﻿- Obtaining the size of the area of the box by the prototype size
+
+- Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
+
+- Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
+
+- Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
+﻿
+- Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
+
+- Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
+
+<h2>youtube video link to the project</h2>
+Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
+﻿
+https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
+
+<h2>problems faced during the implementation of the project</h2>
+
+- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
+
+There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
+
+- Plier
+- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
+- Network cable crimping tool
+- Tape measure (3m)
+- Digital ac/dc tester
+- Radio set(6pieces)
+- phone set(10pieces)
+- Multimetre
+- Sole tape
+- Wire cutter
+- Soldering wire
+- Soldering gun(60wts)
+- Solder sucker
+- Soldering gun stand
+
+**Alternatvely where no posibility for whole tool kit**
+- multimeter
+- long nose
+- radio set(screw drivers)
+- helping hand
+- tweezers
+- pliers
+- non electric hand drill
+- soldering gun/iron
+
+# step by step procedure and instructions for creating the project
+﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.md
 
