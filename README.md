@@ -71,8 +71,10 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.
 ﻿
 https://wikifactory.com/+criticalmaking/a-diy-amplifier-building﻿
 
+
 <h2>Assembly of the project</h2>
 ﻿
+
 - Obtaining the size of the area of the box by the prototype size
 
 - Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
@@ -101,24 +103,37 @@ https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 ***solar chargers for charging phones***
 
 ***Radio transmitter***
+
 - Network limitations,sometimes we could access the mentoring because of network breakages.
+
 - Lack of a nearby makerspace which could host and train/empower those out of school.
+
 - Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
 
 <h2>Social  Impact of the project on the maker</h2>
+
 - Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
+
 - Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
+
 <h1>Social and Environmental Impact</h1>
+
 - No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
+
 - Aligned with the UN's Sustainable Development Goals
 
 <h2>project impact to students of the vocational training school</h2>
+
 - students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
+
 - They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
 
 <h2>Call for Action</h2>
+
 - Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
+
 - project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
+
 - Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
 
 ﻿<h2>BOM</h2>
@@ -188,6 +203,7 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 ﻿**dry_joints_in_moto_dynamos** 
 
 ﻿**creating_extensions_of _circiut_lines** 
+
 <h2>SDG 8:Decent work and economic growth</h2>
 
 ***Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.***
