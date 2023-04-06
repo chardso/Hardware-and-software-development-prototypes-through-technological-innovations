@@ -6,53 +6,7 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 ﻿
 ﻿
 
-There are 7.1 million school-age refugee children around the world, and 3.7 million - more than half - don't have the opportunity to go to school. It gets progressively more difficult to access school as refugee children get older. Only 63% of refugee children are enrolled in primary school, compared to 91% globally.
-﻿
-Particularly in Adjumani district ,the total population shows that 232,400 are nationals and 207,500 are refugees and how ever most of refugees face hard time from hunger before they recieve the aid from United Nations High commision for refuguees \(UNHCR\)
-﻿
-﻿Though in 2019 alot of Non Governmental organizations were full in support of refugee education ,over these few years there is a decline in there activities.
-﻿
-﻿
 
-﻿
-﻿https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines﻿/
-﻿
-
-From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
-
-if  the chance of funding is given to empower them through this type of projects to acquire;
-﻿
-- soldering skills
-- General skills for repairing electronics and other hardware gadgets
-would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
-﻿
-<h1>Team members</h1>
-﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
-
- 
-|     Names      | Department         |
-|:-----------------:|:-------------------:|
-|Moriku Beatrice|Tailoring and design|                                                                                                                                                                                                                                                                 
-|Chandiga.    |Driving and mechanics|
-|Mawadri Charles|Brick laying and concrete practice|
-|Kojoki Doris   |Tailoring and design|
-|Obulejo David  |carpentry and joinery|
-| Eriga Davis  |brick laying and concrete practice|                                                                                                                       
-|  korma Beatrice|  Driving and mechanics|                                                                                                                               
-                                                                                                                                
-
-<h1>Project inspiration</h1>
-
-- The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
-﻿
-- The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
-﻿
-- The Youth in Adjumani district-northern Uganda are more vulnerable due to low education levels, high poverty and unemployment compared to their counterparts .
-﻿
-- Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
-﻿
-Students graduating from junior express vocational training school and have no start up capital to resume practicing the acquired skills.
-﻿
 <h1>Electronics and programming</h1>
 
 ***App***
@@ -239,3 +193,50 @@ https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines#
 
 This was during COVID-19 in the year 2020 indicating that supporting refugees with food rations is a good idea but not reliable than we could empower them with hardware and Electronic repair skills for their sustainability. 
 
+There are 7.1 million school-age refugee children around the world, and 3.7 million - more than half - don't have the opportunity to go to school. It gets progressively more difficult to access school as refugee children get older. Only 63% of refugee children are enrolled in primary school, compared to 91% globally.
+﻿
+Particularly in Adjumani district ,the total population shows that 232,400 are nationals and 207,500 are refugees and how ever most of refugees face hard time from hunger before they recieve the aid from United Nations High commision for refuguees \(UNHCR\)
+﻿
+﻿Though in 2019 alot of Non Governmental organizations were full in support of refugee education ,over these few years there is a decline in there activities.
+﻿
+﻿
+
+﻿
+﻿https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines﻿/
+﻿
+
+From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
+
+if  the chance of funding is given to empower them through this type of projects to acquire;
+﻿
+- soldering skills
+- General skills for repairing electronics and other hardware gadgets
+would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time. At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
+﻿
+<h1>Team members</h1>
+﻿Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
+
+ 
+|     Names      | Department         |
+|:-----------------:|:-------------------:|
+|Moriku Beatrice|Tailoring and design|                                                                                                                                                                                                                                                                 
+|Chandiga.    |Driving and mechanics|
+|Mawadri Charles|Brick laying and concrete practice|
+|Kojoki Doris   |Tailoring and design|
+|Obulejo David  |carpentry and joinery|
+| Eriga Davis  |brick laying and concrete practice|                                                                                                                       
+|  korma Beatrice|  Driving and mechanics|                                                                                                                               
+                                                                                                                                
+
+<h1>Project inspiration</h1>
+
+- The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
+﻿
+- The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
+﻿
+- The Youth in Adjumani district-northern Uganda are more vulnerable due to low education levels, high poverty and unemployment compared to their counterparts .
+﻿
+- Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
+﻿
+Students graduating from junior express vocational training school and have no start up capital to resume practicing the acquired skills.
+﻿
