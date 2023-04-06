@@ -304,7 +304,7 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 | r0g Agency | ASKnet  |  BMZ   |  ALX sch   |  YEF    |  OShw  | Ohm | GIG | Alison sch |
 | :--------: | :------: | :-------|:------:|:-------:|:------:|:---:|:----:|:---------:|
 |![](/Images/r0g_logo.png)|![](/Images/asknet-logo.png)|![](/Images/founder_BMZ.jpg)|![](/Images/coollogo_com-197243325.png)|![](/Images/yef-logo.jpeg)|![](/Images/oshw-logo-400-px.png)|![](/Images/ohm-logo.png)|![](/Images/cropped-gig-logo-retina.png)|
-|[Official website](https://openculture.agency/team/)|[Official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website](http://www.ohmtechsystems.com/)|[Official website](https://globalinnovationgathering.org/)|
+|[Official website](https://openculture.agency/team/)|[Official website](https://asknet.community/)|[Official website](https://www.bmz.de/en)|[Officia website](https://www.alxafrica.com/)|[Official website](https://yef-uganda.org/who-we-are/)|[Official website](https://en.m.wikipedia.org/wiki/Open-source_hardware)|[Official website](http://www.ohmtechsystems.com/)|[Official website](https://globalinnovationgathering.org/)|[Official website](https://alison.com/tag/online-education?utm_source=google&utm_medium=cpc&utm_campaign=PPC_Tier-3_First-Click_Courses-_Broad_&utm_adgroup=Tag_Online-Education&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETHGBpkMF919wpmTjlBY066WzkMLMH9taZGr-kLR7QxErh48gGpHXpEaAkyBEALw_wcB&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETHGBpkMF919wpmTjlBY066WzkMLMH9taZGr-kLR7QxErh48gGpHXpEaAkyBEALw_wcB)|
 
 
 ﻿
