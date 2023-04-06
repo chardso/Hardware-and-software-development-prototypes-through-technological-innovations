@@ -40,8 +40,7 @@ would render them chances of putting the skills in practice to achieve litle hou
 Junior Express Vocational Training School is about 2kms away from Adjumani Town Council, it is located on the South West of Adjumani District Headquarters. It was registered in 1993 with the objective to provide training to the most vulnerable youth, people with disability, women and girls affected by war and poverty across West Nile and Northern Uganda. After the process of the registration, the School effectively started operation in 1997 and it has so far trained and graduated over 1,000 students in various trades, thus it has impacted positively in the increased household income to various vulnerable households of the host and refugee communities.
 
 
-Junior Express Vocational Training School is about 2kms away from Adjumani Town Council, it is located on the South West of Adjumani District Headquarters. It was registered in 1993 with the objective to provide training to the most vulnerable youth, people with disability, women and girls affected by war and poverty across West Nile and Northern Uganda. After the process of the registration, the School effectively started operation in 1997 and it has so far trained and graduated over 1,000 students in various trades, thus it has impacted positively in the increased household income to various vulnerable households of the host and refugee communities.
-# moto
+
 
 **For Skills and Prosperity**
 
