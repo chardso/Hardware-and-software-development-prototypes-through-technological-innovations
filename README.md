@@ -7,7 +7,6 @@ The DIY ultra bass amplifier project  is an initiative by one long time experien
 <h1>Electronics and programming</h1><h3>Tool</h3
 
 - Graphical user interface (GUI)
-
 - Commandline (CLI)
 
 <h3>code</h3>
