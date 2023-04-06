@@ -37,54 +37,6 @@ https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 
 - Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
 
-- Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
-
-***led light for reading books***
-﻿
-***solar chargers for charging phones***
-
-***Radio transmitter***
-
-- Network limitations,sometimes we could access the mentoring because of network breakages.
-
-- Lack of a nearby makerspace which could host and train/empower those out of school.
-
-- Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
-
-<h2>Social  Impact of the project on the maker</h2>
-
-- Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
-
-- Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
-
-<h1>Social and Environmental Impact</h1>
-
-- No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
-
-- Aligned with the UN's Sustainable Development Goals
-
-<h2>project impact to students of the vocational training school</h2>
-
-- students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
-
-- They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
-
-<h2>Call for Action</h2>
-
-- Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
-
-- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
-
-- Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
-
-﻿<h2>BOM</h2>
-
-﻿<h3>Materials/ Parts List.</h3>
-
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿
-﻿
-﻿<h2>Tools</h2>
-﻿
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
 
 - Plier
@@ -226,4 +178,53 @@ would render them chances of putting the skills in practice to achieve litle hou
 - Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
 ﻿
 Students graduating from junior express vocational training school and have no start up capital to resume practicing the acquired skills.
+﻿
+
+- Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
+
+***led light for reading books***
+﻿
+***solar chargers for charging phones***
+
+***Radio transmitter***
+
+- Network limitations,sometimes we could access the mentoring because of network breakages.
+
+- Lack of a nearby makerspace which could host and train/empower those out of school.
+
+- Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
+
+<h2>Social  Impact of the project on the maker</h2>
+
+- Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
+
+- Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
+
+<h1>Social and Environmental Impact</h1>
+
+- No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
+
+- Aligned with the UN's Sustainable Development Goals
+
+<h2>project impact to students of the vocational training school</h2>
+
+- students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
+
+- They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
+
+<h2>Call for Action</h2>
+
+- Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
+
+- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
+
+- Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
+
+﻿<h2>BOM</h2>
+
+﻿<h3>Materials/ Parts List.</h3>
+
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿
+﻿
+﻿<h2>Tools</h2>
 ﻿
