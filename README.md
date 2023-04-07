@@ -35,28 +35,26 @@ At least with the skills and knowledge on electronic repair ,the soldering skill
 # Team members
 
 Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
-Name                                                                                                                           Department
 
-    Moriku Beatrice                                                                                                                           Tailoring and design
-    Joseph Iyale                                                                                                                                   Brick laying and concrete practice
-    Kojoki Doris                                                                                                                                     Hair dressing
-    Mawadri Charles                                                                                                                          Driving and mechanics
-    Obulejo David                                                                                                                                Tailoring and design
-    Eriga Davis                                                                                                                                       carpentry and joinery
-    korma Beatrice                                                                                                                                catering
+|     Name       |Department|
+|:-----------:|:-----------|
+|Moriku Beatrice|Tailoring and design|
+|Joseph Iyale|Brick laying and concrete practice|
+|Kojoki Doris  |Hair dressing|
+|Mawadri Charles|Driving and mechanics|
+|Obulejo David|Tailoring and design|
+|Eriga Davis   |carpentry and joinery|
+|korma Beatrice|catering|
 
+# Project inspiration
 
+- The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
 
+- The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
 
+- The Youth in Adjumani district-northern Uganda are more vulnerable due to low education levels, high poverty and unemployment compared to their counterparts .
 
-Project inspiration
-The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
-
-The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
-
-The Youth in Adjumani district-northern Uganda are more vulnerable due to low education levels, high poverty and unemployment compared to their counterparts .
-
-Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
+- Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
 
 
 TellingADifferentStory.pdf 
