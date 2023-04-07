@@ -1,13 +1,8 @@
-
-Project connection illustration
-
-
-﻿
-About
+# About
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.
 
-﻿
+
 There are 7.1 million school-age refugee children around the world, and 3.7 million - more than half - don't have the opportunity to go to school. It gets progressively more difficult to access school as refugee children get older. Only 63% of refugee children are enrolled in primary school, compared to 91% globally.
 
 Particularly in Adjumani district ,the total population shows that 232,400 are nationals and 207,500 are refugees and how ever most of refugees face hard time from hunger before they recieve the aid from United Nations High commision for refuguees \(UNHCR\)
@@ -16,14 +11,14 @@ Particularly in Adjumani district ,the total population shows that 232,400 are n
 Though in 2019 alot of Non Governmental organizations were full in support of refugee education ,over these few years there is a decline in there activities.
 
 
-[View Education Thematic Report November 2019.pdf @ Wiki factory](﻿
+[View Education Thematic Report November 2019.pdf @ Wiki factory](
 
 Education 
 
  Thematic Report November 2019.pdf)
 
-﻿https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines﻿
-﻿
+
+https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines
 From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
 if  the chance of funding is given to empower them through this type of projects to acquire;
 
@@ -37,8 +32,8 @@ would render them chances of putting the skills in practice to achieve litle hou
 
 At least with the skills and knowledge on electronic repair ,the soldering skill alone can put food on the table,whatever i say in this making movement is what i have been through.
 
-Team members
-﻿
+# Team members
+
 Initiated the idea ,and joined by the students of junior express vocational training school during the critical making mentoring period and i was able to train atleast one member from each department ,they have driving department,tailoring ,saloon and hair dressing ,catering,carpentry and joinnery etc ,at least each member was able to acquire a soldering skill .their names are;
 Name                                                                                                                           Department
 
@@ -50,41 +45,46 @@ Name                                                                            
     Eriga Davis                                                                                                                                       carpentry and joinery
     korma Beatrice                                                                                                                                catering
 
-﻿
-﻿
-﻿
+
+
+
 
 Project inspiration
 The unemployment rate in Uganda increased by 0.2 percentage points in 2021 in comparison to the previous year. In total, the unemployment rate amounted to 2.94 percent in 2021.2023
-﻿
+
 The high youth unemployment levels in Uganda are partly because of the mismatch of courses taught by education institutions and the actual skills needed by the job market.
-﻿
+
 The Youth in Adjumani district-northern Uganda are more vulnerable due to low education levels, high poverty and unemployment compared to their counterparts .
-﻿
+
 Adjumani district hosting a great number of refugees from south sudan who were forced to leave their ancentral homes due to out break of war which has left sudan unsafe for a period of time .this has led to increased population with a great number of youths un educated and unskilled .
-﻿
+
 
 TellingADifferentStory.pdf 
 
 The preview for this file is currently being generated.
-﻿
+
 Students graduating from junior express vocational training school and have no start up capital to resume practicing the acquired skills.
 
-Electronics and programming
+# Electronics and programming
 App
 
-    Graphical user interface (GUI)
+Graphical user interface (GUI)
 
-Tool
+# Tool
 
     Commandline (CLI)
 
-For the code
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.git﻿
-latest code
-﻿https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
-Assembly of the project
-﻿
+# For the code
+
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier.git
+
+
+# latest code
+
+https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
+
+# Assembly of the project
+
 
     Obtaining the size of the area of the box by the prototype size
     Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
@@ -99,8 +99,10 @@ Assembly of the project
 
 youtube video link to the project
 Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
+
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ
-problems faced during the implementation of the project
+
+# problems faced during the implementation of the project
 
     Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
     Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
@@ -114,26 +116,24 @@ solar chargers for charging phones
     Lack of a nearby makerspace which could host and train/empower those out of school.
     Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
 
-Social  Impact on the maker
+ # Social  Impact on the maker
 
     Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
     Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
 
-Social and Environmental Impact
+# Social and Environmental Impact
 
     Environmental Impact: No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
-    Social impact: Controlling the social conditions in which products will be developed, designed and tested will be our top priority whereby occupational health and safety measures will be considered at all times during production, recycling and disposal.
-    aligned with the UN's Sustainable Development Goals
-
-project impact to students of the vocational training school
+    Social impact: Controlling the social conditions in which products will be developed, designed and tested will be our top priority whereby occupational health and safety measures will be  considered at all times during production, recycling and disposal.
+ 
+ # project impact to students of the vocational training school
 
     students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
     They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
 
 
 
-
-Call for Action
+# Call for Action
 
     Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
     project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
@@ -200,16 +200,14 @@ local tools
     local soldering gun or iron
     Made of a copper wire fixed on the metal rod with a wooden handle used for?
 
-﻿
+
 
 dry_joints_in_moto_dynamos 
 
-﻿
+
 
 creating_extensions_of _circiut_lines 
-
-﻿
-SDG 8: Decent work and economic growth
+# SDG 8: Decent work and economic growth
 
     Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.
 
@@ -219,8 +217,8 @@ My project or innovation has positive impact towards this goal in the following 
     It  promotes entrepreneurship and/or creates jobs.
     It creates opportunities for youth without a job or education.
 
-﻿
-SDG 9: Industry, innovation and infrastructure
+
+# SDG 9: Industry, innovation and infrastructure
 
     Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
 
@@ -230,11 +228,10 @@ My project or innovation has positive impact towards this goal in the following 
         It promotes new innovations and related entrepreneurship.
         It contributes to building better, more sustainable infrastructures.
 
-﻿
-﻿
-github.com/chardso/Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology/actions/workflows/blank.yml/badge.svg)](https://github.com/chardso/Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology/actions/workflows/blank.yml)
-# Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology
-Empowering the Ukrainian displaced people through innovations and technology for sustainability 
+
+
+
+Empowering the communities of displaced people through technological innovations for social economic transformation and sustainability.
 
 # ![](/Images/IMG_20220207_134319_459.jpg)
 
