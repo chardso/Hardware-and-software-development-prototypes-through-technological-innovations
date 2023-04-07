@@ -152,7 +152,7 @@ Here is my youtube channel where all videos concerned with this project are host
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 ____________
 
-[Project License]( Hardware-and-software-development-prototypes-through-technological-innovations/LICENSE )
+[Project License]( /LICENSE )
 
  <h1>BOM</h1>
 
