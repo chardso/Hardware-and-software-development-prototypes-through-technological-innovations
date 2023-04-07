@@ -152,12 +152,11 @@ Here is my youtube channel where all videos concerned with this project are host
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ﻿
 ____________
 
-<h1>Project License
-
 [Project License]( Hardware-and-software-development-prototypes-through-technological-innovations/LICENSE )
 
-h1>BOM</h1>
-There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
+ <h1>BOM</h1>
+
+ There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
 - Plier
 - Box spanners. 4,5,6,7,8,9,10,11,12 and 13
 - Network cable crimping tool
