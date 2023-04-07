@@ -172,14 +172,21 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 
 Alternatvely where no posibility for whole tool kit
 
-    multimeter
-    long nose
-    radio set(screw drivers)
-    helping hand
-    tweezers
-    pliers
-    non electric hand drill
-    soldering gun/iron
+- multimeter
+
+- long nose
+
+- radio set(screw drivers)
+
+- helping hand
+
+- tweezers
+
+- pliers
+
+- non electric hand drill
+
+- soldering gun/iron
 
 step by step procedure and instructions for creating the project
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.mdPROJECT
