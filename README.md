@@ -312,7 +312,7 @@ __________________________________
 
 ﻿<h3>Materials/ Parts List.</h3>
 
-https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿
+https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv﻿/
 ﻿
 ____________
  
