@@ -237,7 +237,7 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 <h3>My project or innovation has positive impact towards this goal in the following ways:</h3>
 
 - It promotes (small-scale) industrial activities.
-- It promotes new innovations and related entrepreneurship.
+- It promotes new innovations and related entrepreneurship
 - It contributes to building better, more sustainable infrastructures.
 
 <h1>Team members</h1>
