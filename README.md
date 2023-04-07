@@ -1,5 +1,5 @@
-<h1>Hardware-and-Electronic-prototype-development-open-source-software-innovations-and-technology</h1>
-Empowering the Ukrainian displaced people through innovations and technology for sustainability 
+<h1>Hardware-and-El-prototype-development-open-source-software-innovations-and-technology</h1>
+Empowering the communities of displaced people through innovations and technology for social economic transformation and sustainability 
 
 # ![](/Images/IMG_20220207_134319_459.jpg)
 <h2>project inspiration</h2> 
