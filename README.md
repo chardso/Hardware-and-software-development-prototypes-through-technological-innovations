@@ -85,11 +85,13 @@ https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 
 # Assembly of the project
 
+- Obtaining the size of the area of the box by the prototype size
 
-    Obtaining the size of the area of the box by the prototype size
-    Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
-    Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
-    Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
+- Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
+
+- Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
+
+- Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
 
 
 
@@ -104,65 +106,71 @@ https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ
 
 # problems faced during the implementation of the project
 
-    Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
-    Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
+- Hight material costs  due to delayed entry funding ,by the time we recieved funds,the mentoring program had already started and this couldn't enable us travel to the main city to acquire the materials at the reduced costs otherwise the budget for materials was enough and that could purchase materials which could run the project successful and excess would  be used for training the team for the whole year otherwise in our locality material costs have been doubled.
 
+- Transport limitations also affected the implimentation of this project as in there was no transport budgets enabling access of distant refugee settlements though they have shown great interest in empowering them with knowledge in creative innovations like building led light systems,small hand radios prototypes and solar chargers since they face a challenge of power for reading books and charging their phones.
 
 led light for reading books
 
 solar chargers for charging phones
 
-    Network limitations,sometimes we could access the mentoring because of network breakages.
-    Lack of a nearby makerspace which could host and train/empower those out of school.
-    Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
+- Network limitations,sometimes we could access the mentoring because of network breakages.
 
- # Social  Impact on the maker
+- Lack of a nearby makerspace which could host and train/empower those out of school.
 
-    Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
-    Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
+- Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
+
+# Social  Impact on the maker
+- Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
+- Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
 
 # Social and Environmental Impact
 
-    Environmental Impact: No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
-    Social impact: Controlling the social conditions in which products will be developed, designed and tested will be our top priority whereby occupational health and safety measures will be  considered at all times during production, recycling and disposal.
+- Environmental Impact: No carbon footprint, no water (moisture) print and no aquatic toxicity through proper disposal and recycling techniques.
+
+- Social impact: Controlling the social conditions in which products will be developed, designed and tested will be our top priority whereby occupational health and safety measures will be  considered at all times during production, recycling and disposal.
  
  # project impact to students of the vocational training school
-
-    students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
-    They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
-
-
+- students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
+- They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
 
 # Call for Action
-
-    Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
-    project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.
-    Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
-
-
-
-BOM
-
-
-Materials/ Parts List.
+- Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
+***- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.***
+- Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
+# BOM
+**Materials/ Parts List.**
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv
 
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
 
-    Plier
-    Box spanners. 4,5,6,7,8,9,10,11,12 and 13
-    Network cable crimping tool
-    Tape measure (3m)
-    Digital ac/dc tester
-    Radio set(6pieces)
-    phone set(10pieces)
-    Multimetre
-    Sole tape
-    Wire cutter
-    Soldering wire
-    Soldering gun(60wts)
-    Solder sucker
-    Soldering gun stand
+- Plier
+
+- Box spanners. 4,5,6,7,8,9,10,11,12 and 13
+
+- Network cable crimping tool
+
+- Tape measure (3m)
+
+- Digital ac/dc tester
+
+- Radio set(6pieces)
+
+- phone set(10pieces)
+
+- Multimetre
+
+- Sole tape
+
+- Wire cutter
+
+- Soldering wire
+
+- Soldering gun(60wts)
+
+- Solder sucker
+
+- Soldering gun stand
 
 Alternatvely where no posibility for whole tool kit
 
