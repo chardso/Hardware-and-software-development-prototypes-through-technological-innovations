@@ -1,4 +1,4 @@
-<h1>Hardware-and-software development prototypes through open-source technology and innovations </h1>
+<h1>Hardware and software development prototypes through open-source technology and innovations </h1>
 Empowering the communities of displaced people through innovations and technology for social economic transformation and sustainability 
 
 # ![](/Images/IMG_20220207_134319_459.jpg)
