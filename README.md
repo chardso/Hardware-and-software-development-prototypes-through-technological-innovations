@@ -1,3 +1,4 @@
+![](/Images/IMG_20230408_233012_518.jpg)
 # About
 DIY audio means "do it yourself"rather than buying apiece of possibly expensive audio equipment such as a high-end audio amplifier or speaker, the person practicing DIY audio will make it by him/herself
 The DIY ultra bass amplifier project  is an initiative by one long time experienced hardware expert  who targets  using the idea for passing over his big time electronic repair techniques , knowledge,and skills to refugees and other citizen youths who have failed to further their education due to lack of funds  for sustainability.![](/Images/b9e81156-50e2-43bf-affe-3cba61c35a7c.png)
