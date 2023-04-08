@@ -45,7 +45,7 @@ Initiated the idea ,and joined by the students of junior express vocational trai
 |Joseph Iyale|Brick laying and concrete practice![](/Images/IMG_20221107_121323_448.jpg)|
 |Kojoki Doris  |Hair dressing|
 |Mawadri Charles|Driving and mechanics![](/Images/driving_tool.jpg)|
-|Obulejo David|Tailoring and design|
+|Obulejo David|Tailoring and design![](/Images/aa7a6aab-84c8-45b0-86e8-554f4228d373.png)|
 |Eriga Davis   |carpentry and joinery![](/Images/86153f5a-b111-4264-b26f-051625a73757.png)|
 |korma Beatrice|catering![](/Images/08acd45f-ece4-4d3b-a315-891430d45aae.png)|
 
