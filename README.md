@@ -91,7 +91,7 @@ https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 
 - Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
 
-
+![](/Images/Align_the_prototype_on_the_surface_with_pertex.jpg)
 
 - Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
 
