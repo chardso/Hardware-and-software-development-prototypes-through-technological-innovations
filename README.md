@@ -46,7 +46,7 @@ Initiated the idea ,and joined by the students of junior express vocational trai
 |Kojoki Doris  |Hair dressing|
 |Mawadri Charles|Driving and mechanics![](/Images/driving_tool.jpg)|
 |Obulejo David|Tailoring and design|
-|Eriga Davis   |carpentry and joinery|
+|Eriga Davis   |carpentry and joinery![](/Images/86153f5a-b111-4264-b26f-051625a73757.png)|
 |korma Beatrice|catering![](/Images/08acd45f-ece4-4d3b-a315-891430d45aae.png)|
 
 # Project inspiration
