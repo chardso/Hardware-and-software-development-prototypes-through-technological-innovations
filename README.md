@@ -97,6 +97,7 @@ https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 ![](/Images/Align_the_prototype_on_the_surface_with_pertex.jpg)
 
 - Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
+![](/Images/seal_the_box_.jpg)
 
 - Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
 
