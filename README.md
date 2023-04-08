@@ -141,7 +141,7 @@ solar chargers for charging phones
 
 - Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
 
-***- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.***
+***project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.***
 
 - Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
 
