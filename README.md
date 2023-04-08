@@ -15,16 +15,16 @@ Though in 2019 alot of Non Governmental organizations were full in support of re
 
 Education 
 
- Thematic Report November 2019.pdf)
+Thematic Report November 2019.pdf)
 
 
 https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines
 From the link  above  there is a clear sign that with time world food programme will completely stop distribution of food rations to refugees and besides that the current ratio  per household can not sustain the household a whole month hence this calls for external funding to the rescue of the refugees.
 if  the chance of funding is given to empower them through this type of projects to acquire;
 
+soldering skills
 
-    soldering skills
-    General skills for repairing electronics and other hardware gadgets
+General skills for repairing electronics and other hardware gadgets
     
 
 would render them chances of putting the skills in practice to achieve litle household income for sustainability and the succesful ones would advance their skills with time.
@@ -70,7 +70,7 @@ Graphical user interface (GUI)
 
 # Tool
 
-    Commandline (CLI)
+Commandline (CLI)
 
 # For the code
 
@@ -93,11 +93,12 @@ https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 
 
 
-    Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
-    Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
+- Seal the box ,but remember the vaccum left should be filled with cut boxes which would give the uniform shape of the amplifier,not only cut boxes the white material which normally comes in the box whenever one buys a new radio can be used to close up the vaccum.
 
+- Identify the area for passage of aux,Dc powerline and speaker line as shown and indicated above in the picture.
 
-youtube video link to the project
+# youtube video link to the project
+
 Here is my youtube channel where all videos concerned with this project are hosted watch,like ,subscribe and turn on your notifications for more amazing creative innovations.
 
 https://www.youtube.com/channel/UCwMtKfSkvKaMEnM4N-dZ_jQ
@@ -129,15 +130,23 @@ solar chargers for charging phones
 - Social impact: Controlling the social conditions in which products will be developed, designed and tested will be our top priority whereby occupational health and safety measures will be  considered at all times during production, recycling and disposal.
  
  # project impact to students of the vocational training school
+
 - students have acquired soldering skills and are now able to solder carbon brashes fo vehicles,motocycles ,coils ,electronic part fixing like speakers,screens,earpiece,mouthpiece etc.
+
 - They have also been in position to identify sound production electronic components used in this project such as droppers,resistors,to mention but a few.
 
 # Call for Action
+
 - Refugee community in the nearby settlement suggests we prototype simple hand radios for them to access area dailly news.
+
 ***- project test continuation and improvements like including the DC unit are in plan and team project members are yet to present their prototypes of their respective foculties are also underway but how to go about requires external funding.***
+
 - Agreat population of both refugees who are school dropouts are interested in the project but due to lack of a nearby makerspace ,their interest has been turned down
+
 # BOM
+
 **Materials/ Parts List.**
+
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/Material-details.csv
 
 There are 64pieces of tools in the kit,these include but afew can be used in excuting this particular project,i had to document all of them because they can all be used in prototyping of other electronic projects besides this onei
@@ -207,7 +216,7 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 learn from the pictures.
 
 
-    It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
+It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
 
 local tools 
 
