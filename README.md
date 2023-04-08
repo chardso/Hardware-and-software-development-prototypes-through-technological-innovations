@@ -41,7 +41,7 @@ Initiated the idea ,and joined by the students of junior express vocational trai
 
 |     Name       |Department|
 |:-----------:|:-----------|
-|Moriku Beatrice|Tailoring and design|
+|Moriku Beatrice|Tailoring and design![](/Images/22243841-111c-4148-8af5-221c0ea1cf64.png)|
 |Joseph Iyale|Brick laying and concrete practice![](/Images/IMG_20221107_121323_448.jpg)|
 |Kojoki Doris  |Hair dressing|
 |Mawadri Charles|Driving and mechanics![](/Images/driving_tool.jpg)|
