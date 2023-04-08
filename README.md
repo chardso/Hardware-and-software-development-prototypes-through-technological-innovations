@@ -120,7 +120,9 @@ solar chargers for charging phones
 - Limited training gadgets eg laptops,cameras as aresult it has led to poor quality images and videos and most of the refugees need empowerment in digital literacy.
 
 # Social  Impact on the maker
+
 - Established the network with other greater maker both mentors and mentees and gained alot of experience in project presentation ,SDG application,license ,and documentations using different softwares e.g wikifactory and github.
+
 - Linked to alot of organisations with great minds involved sharing great ideas via open source softwares educating communities in several fields such as innovations,interpreneurship,organisational development programmes all aimed at changing livelihood of communities.
 
 # Social and Environmental Impact
@@ -205,11 +207,11 @@ https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09
 
 # SDG 1 No poverty
 
-    End poverty in all its forms everywhere.
+End poverty in all its forms everywhere.
 
 ## My project or innovation has positive impact towards this goal in the following way:
 
-    It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
+It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
 
 ## HOW?
 
@@ -232,33 +234,34 @@ creating_extensions_of _circiut_lines
 
 # SDG 8: Decent work and economic growth
 
-    Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.
-
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.
 
 My project or innovation has positive impact towards this goal in the following ways:
 
 - It  promotes entrepreneurship and/or creates jobs.
+
 - It creates opportunities for youth without a job or education.
 
 
 # SDG 9: Industry, innovation and infrastructure
 
-    Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
+Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
 
 My project or innovation has positive impact towards this goal in the following ways:
 
-        It promotes (small-scale) industrial activities.
-        It promotes new innovations and related entrepreneurship.
-        It contributes to building better, more sustainable infrastructures.
-
-
-
+- It promotes (small-scale) industrial activities.
+        
+- It promotes new innovations and related entrepreneurship.
+        
+- It contributes to building better, more sustainable infrastructures.
 
 Empowering the communities of displaced people through technological innovations for social economic transformation and sustainability.
 
 ![](/Images/IMG_20220207_134319_459.jpg)
 
+
 # project inspiration 
+
 When there is insurgency or outbreak of war, the citizens of that particular area are displaced from their ancestral homes and deprived of their basic needs such as food,shelter,health and education and seek for refugee resulting to growth of unskilled population, poverty,bad health,insecurity and hunger eg the current situation in Sudan,the war between tribes has forced netzens to quit their ancestral homes for refugee in it's neighboring boarder countries like Uganda, Ethiopia to mention but a few, Ukraine is also undergoing the same situation. 
 
 ![](/Images/images.jpg)
