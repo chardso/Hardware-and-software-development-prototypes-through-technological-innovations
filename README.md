@@ -87,7 +87,10 @@ https://wikifactory.com/+criticalmaking/a-diy-amplifier-building
 
 - Not only boxes but also wasted plastics eg jerricans,basins can be cut according to the surface area of the prototype.
 
+
 - Apply pertex on the selected area where the shock absorber can sit firmly,not only pertex but also other solutions that can join the alluminium with the material used to design the outer perimetre ot the prototype .
+
+![](/Images/Applying_pertex_inside_the_box_on_surface.jpg)
 
 - Align the prototype considering the alluminium surface sits on the area applied with pertex but remember it's applied on the two surfaces and left to drain for 5-10mins.
 
