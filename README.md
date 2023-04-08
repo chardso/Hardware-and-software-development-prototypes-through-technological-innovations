@@ -47,7 +47,7 @@ Initiated the idea ,and joined by the students of junior express vocational trai
 |Mawadri Charles|Driving and mechanics![](/Images/driving_tool.jpg)|
 |Obulejo David|Tailoring and design|
 |Eriga Davis   |carpentry and joinery|
-|korma Beatrice|catering|
+|korma Beatrice|catering![](/Images/08acd45f-ece4-4d3b-a315-891430d45aae.png)|
 
 # Project inspiration
 
