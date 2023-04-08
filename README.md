@@ -170,7 +170,7 @@ There are 64pieces of tools in the kit,these include but afew can be used in exc
 
 - Soldering gun stand
 
-Alternatvely where no posibility for whole tool kit
+# Alternatvely where no posibility for whole tool kit
 
 - multimeter
 
@@ -188,38 +188,39 @@ Alternatvely where no posibility for whole tool kit
 
 - soldering gun/iron
 
-step by step procedure and instructions for creating the project
+# step by step procedure and instructions for creating the project
+
 https://github.com/chardso/Building-a-DIY-audio-ultra-bass-amplifier/blob/195f09c0d50e546ead3d26e6fc7556217e492fa0/procedure.mdPROJECT
-Project SDG's
-SDG 1 No poverty
+
+# Project SDG's
+
+# SDG 1 No poverty
 
     End poverty in all its forms everywhere.
 
-My project or innovation has positive impact towards this goal in the following way:
+## My project or innovation has positive impact towards this goal in the following way:
 
     It allows people affected by poverty to work as  electronic technicians or otherwise secures their livelihood.
 
-HOW?
+## HOW?
+
 learn from the pictures.
 
 
     It is both attainable for people with low economic capital, possibly living in poor rural areas, and raises their living standards.
 
-
-
 local tools 
 
-    Local portable charcoal metal/wire stove as shown above
-    local soldering gun or iron
-    Made of a copper wire fixed on the metal rod with a wooden handle used for?
-
-
+- Local portable charcoal metal/wire stove as shown above
+    
+- local soldering gun or iron
+    
+- Made of a copper wire fixed on the metal rod with a wooden handle used for?
 
 dry_joints_in_moto_dynamos 
 
-
-
 creating_extensions_of _circiut_lines 
+
 # SDG 8: Decent work and economic growth
 
     Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all in a long run.
@@ -227,8 +228,8 @@ creating_extensions_of _circiut_lines
 
 My project or innovation has positive impact towards this goal in the following ways:
 
-    It  promotes entrepreneurship and/or creates jobs.
-    It creates opportunities for youth without a job or education.
+- It  promotes entrepreneurship and/or creates jobs.
+- It creates opportunities for youth without a job or education.
 
 
 # SDG 9: Industry, innovation and infrastructure
@@ -246,12 +247,13 @@ My project or innovation has positive impact towards this goal in the following 
 
 Empowering the communities of displaced people through technological innovations for social economic transformation and sustainability.
 
-# ![](/Images/IMG_20220207_134319_459.jpg)
+![](/Images/IMG_20220207_134319_459.jpg)
 
 # project inspiration 
-
 When there is insurgency or outbreak of war, the citizens of that particular area are displaced from their ancestral homes and deprived of their basic needs such as food,shelter,health and education and seek for refugee resulting to growth of unskilled population, poverty,bad health,insecurity and hunger eg the current situation in Sudan,the war between tribes has forced netzens to quit their ancestral homes for refugee in it's neighboring boarder countries like Uganda, Ethiopia to mention but a few, Ukraine is also undergoing the same situation. 
-# ![](/Images/images.jpg)
+
+![](/Images/images.jpg)
+
 The recent news report by World Food programm giving a signal of another decreament in refugee food rations and yet the monthly ration can not even feed the refugee household for thirty days. 
 
 https://www.wfp.org/news/wfp-cuts-refugees-food-rations-uganda-funding-declines#:~:text=This%20year%20has%20been%20particularly,over%20the%20next%20six%20months.
